@@ -1,0 +1,7 @@
+conclusion:
+   by implementing mobile TCP optimizations
+such as Proxy-based split connections ,caching,
+adaptive congestion control ,and loss recovery
+mechanisms ,the application can perform 
+efficiently even in remote locations with 
+unreliable networks of limited bandwidth
